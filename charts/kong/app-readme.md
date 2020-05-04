@@ -1,6 +1,6 @@
 # Kong for Kubernetes
 
-[Kong](https://konghq.com) Kong makes connecting APIs and microservices across hybrid or multi-cloud environments easier and faster than ever. We power trillions of API transactions for leading organizations globally through our end-to-end API platform.
+[Kong](https://konghq.com) makes connecting APIs and microservices across hybrid or multi-cloud environments easier and faster than ever. We power trillions of API transactions for leading organizations globally through our end-to-end API platform.
 
 Kong Gateway is the world’s most popular open source API gateway, built for multi-cloud and hybrid, and optimized for microservices and distributed architectures.  It is built on top of a lightweight proxy to deliver unparalleled latency, performance and scalability for all your microservice applications regardless of where they run. It allows you to exercise granular control over your traffic with Kong’s plugin architecture
 
