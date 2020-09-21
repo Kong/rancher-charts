@@ -16,7 +16,7 @@ questions:
     default: "LoadBalancer"
     description: "Service Type"
     label: Service Type
-    type: options
+    options:
       - "ClusterIP"
       - "NodePort"
       - "LoadBalancer"
