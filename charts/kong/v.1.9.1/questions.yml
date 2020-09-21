@@ -18,9 +18,9 @@ questions:
     label: Service Type
     type: enum
     options:
-      - "ClusterIP"
-      - "NodePort"
-      - "LoadBalancer"
+      - ClusterIP
+      - NodePort
+      - LoadBalancer
   - variable: admin.http.enabled
     default: "false"
     description: "Enable HTTP for REST Admin API"
