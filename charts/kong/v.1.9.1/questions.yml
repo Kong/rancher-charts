@@ -14,7 +14,7 @@ questions:
   subquestions:
   - variable: admin.type
     default: "LoadBalancer"
-    description: "Service Type"
+    description: "Kubernetes Service Type"
     label: Service Type
     type: enum
     options:
